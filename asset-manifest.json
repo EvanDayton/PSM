@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/psm/static/css/main.261bdf0c.css",
+    "main.js": "/psm/static/js/main.db02b528.js",
+    "static/media/logo.png": "/psm/static/media/logo.6e3c8f4922f448875217.png",
+    "index.html": "/psm/index.html",
+    "main.261bdf0c.css.map": "/psm/static/css/main.261bdf0c.css.map",
+    "main.db02b528.js.map": "/psm/static/js/main.db02b528.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.261bdf0c.css",
+    "static/js/main.db02b528.js"
+  ]
+}
